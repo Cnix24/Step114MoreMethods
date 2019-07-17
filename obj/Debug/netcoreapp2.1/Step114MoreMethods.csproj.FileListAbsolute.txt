@@ -1,0 +1,10 @@
+C:\Users\cback\source\repos\Step114MoreMethods\bin\Debug\netcoreapp2.1\Step114MoreMethods.deps.json
+C:\Users\cback\source\repos\Step114MoreMethods\bin\Debug\netcoreapp2.1\Step114MoreMethods.runtimeconfig.json
+C:\Users\cback\source\repos\Step114MoreMethods\bin\Debug\netcoreapp2.1\Step114MoreMethods.runtimeconfig.dev.json
+C:\Users\cback\source\repos\Step114MoreMethods\bin\Debug\netcoreapp2.1\Step114MoreMethods.dll
+C:\Users\cback\source\repos\Step114MoreMethods\bin\Debug\netcoreapp2.1\Step114MoreMethods.pdb
+C:\Users\cback\source\repos\Step114MoreMethods\obj\Debug\netcoreapp2.1\Step114MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\Step114MoreMethods\obj\Debug\netcoreapp2.1\Step114MoreMethods.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\Step114MoreMethods\obj\Debug\netcoreapp2.1\Step114MoreMethods.AssemblyInfo.cs
+C:\Users\cback\source\repos\Step114MoreMethods\obj\Debug\netcoreapp2.1\Step114MoreMethods.dll
+C:\Users\cback\source\repos\Step114MoreMethods\obj\Debug\netcoreapp2.1\Step114MoreMethods.pdb
